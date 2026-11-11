@@ -1,0 +1,1 @@
+import{j as r}from"./index-CRJKH2bS.js";import{M as x}from"./Modal-QKF3z6pX.js";function p({open:o,title:s,children:t,onClose:a,onConfirm:e,confirmText:i="삭제",cancelText:m,pending:n}){return r.jsx(x,{open:o,title:s,onClose:a,onConfirm:e,confirmText:i,cancelText:m,confirmDisabled:n,danger:!0,children:r.jsx("p",{className:"text-sm",children:t})})}export{p as C};
